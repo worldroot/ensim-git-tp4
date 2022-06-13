@@ -1,4 +1,5 @@
 @import url(fontawesome-all.min.css);
+@import url(loader.css);
 
 /*
 	Fractal by HTML5 UP
@@ -111,6 +112,7 @@ section {
 
 body {
     line-height: 1;
+    z-index: 100;
 }
 
 ol,
